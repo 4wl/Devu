@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.devu.api.mixin.mixins",
+  "refmap": "mixins.clientbase.refmap.json",
+  "mixins": [
+    "accessors.IMinecraft",
+    "MixinEntityPlayerSP",
+    "MixinNetworkManager",
+    "MixinMinecraft"
+  ]
+}

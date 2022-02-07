@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "devu",
+    "name": "Devu",
+    "description": "Thanks so many client.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["M3udsa"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
